@@ -1,5 +1,5 @@
 # scala3.g8
-A [Gitter8](http://www.foundweekends.org/giter8/index.html) template for a Scala 3 (dotty) project built with sbt.
+A [Gitter8](http://www.foundweekends.org/giter8/index.html) template for a [Scala 3 (dotty)](http://dotty.epfl.ch/docs/) project.
 
 ## Usage
 
