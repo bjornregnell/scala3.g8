@@ -12,7 +12,7 @@ sbt new bjornregnell/scala3.g8
 
 ### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation)
 
-* Click the curly *m* logo in the left bar
+* Click the curly *m* icon in the left bar
 * Click "New Scala Project" under "BUILD COMMANDS"
 * Scroll down almost to the bottom and select "**Custom** *Enter template manually*"
-* Type `bjornregnell/scala3.g8` and press Enter, click "OK", select "Yes", etc etc 
+* Type `bjornregnell/scala3.g8` and confirm with Enter, "OK", "Yes", etc. 
