@@ -3,7 +3,7 @@ A [Gitter8](http://www.foundweekends.org/giter8/index.html) template for a minim
 
 ## Usage
 
-You need to have [OpenJDK](https://adoptopenjdk.net/) and [sbt](https://www.scala-sbt.org) installed.
+You need to have [JDK](https://adoptopenjdk.net/) and [sbt](https://www.scala-sbt.org) installed.
 
 ### In terminal
 ```
