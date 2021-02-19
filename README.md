@@ -1,5 +1,5 @@
 # scala3.g8
-A simple project template for [Scala 3](http://dotty.epfl.ch/docs/). You only need to have [JDK](https://adoptopenjdk.net/) and [sbt](https://www.scala-sbt.org) installed. 
+A simple project template for [Scala 3](https://docs.scala-lang.org/scala3/new-in-scala3.html). You only need to have [JDK](https://adoptopenjdk.net/) and [sbt](https://www.scala-sbt.org) installed. 
 
 ## Usage
 
