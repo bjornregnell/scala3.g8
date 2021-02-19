@@ -8,7 +8,7 @@ A simple project template for [Scala 3](http://dotty.epfl.ch/docs/). You only ne
 sbt new bjornregnell/scala3.g8
 ```
 
-### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation)...
+### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation) do this ...
 
 * Click the curly *m* icon in the left bar
 * Click "New Scala Project" under "BUILD COMMANDS"
