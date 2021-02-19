@@ -1,12 +1,13 @@
-.metals/
-project/metals.sbt
-
-.bloop/
-**/target/
+**/.metals
+**/project/metals.sbt
+**/.vscode
+**/.metals
+**/.bloop
+**/.bsp
+.dotty-ide-disabled
+**/target
 **/*.class
 
 .cache
 .history
-.lib/
-dist/*
-project/boot/
+.lib
