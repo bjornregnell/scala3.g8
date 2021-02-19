@@ -3,7 +3,7 @@ A simple project template for [Scala 3](http://dotty.epfl.ch/docs/). You only ne
 
 ## Usage
 
-### In terminal type...
+### In terminal just type...
 ```
 sbt new bjornregnell/scala3.g8
 ```
