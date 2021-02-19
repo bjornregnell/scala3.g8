@@ -8,6 +8,7 @@ In a new, empty folder just type:
 ```
 sbt new bjornregnell/scala3.g8
 ```
+After output shows "Template applied", start `sbt` and `run`
 
 ### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation) do this ...
 
