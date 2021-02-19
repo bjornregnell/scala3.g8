@@ -4,11 +4,11 @@ A simple project template for [Scala 3](http://dotty.epfl.ch/docs/). You only ne
 ## Usage
 
 ### In terminal...
-In a new, empty folder just type:
+...just type:
 ```
 sbt new bjornregnell/scala3.g8
 ```
-After output shows "Template applied", start `sbt` and `run`
+When prompted type a project name. When "Template applied", navigate to the new folder, start `sbt` and `run`
 
 ### In [VS Code](https://code.visualstudio.com/download) with [Scala (Metals)](https://scalameta.org/metals/docs/editors/vscode.html#installation) do this ...
 
