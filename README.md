@@ -17,7 +17,7 @@ sbt new bjornregnell/scala3.g8
 
 ### Settings
 
-The compiler settings in the file `build.sbt` includes the `-source future` setting, which means that future Scala syntax is enabled and old syntax gives errors. 
+The compiler settings in the file [`build.sbt`](https://github.com/bjornregnell/scala3.g8/blob/master/src/main/g8/build.sbt) includes the `-source future` setting, which means that future Scala syntax is enabled and old syntax gives errors. 
 
 If you want the compiler to allow old Scala syntax and help with migration use `-source future-migration` instead, see further information here: https://dotty.epfl.ch/docs/usage/language-versions.html 
 
