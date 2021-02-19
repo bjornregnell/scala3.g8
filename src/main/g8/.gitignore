@@ -1,13 +1,28 @@
-**/.metals
-**/project/metals.sbt
-**/.vscode
-**/.metals
-**/.bloop
-**/.bsp
-.dotty-ide-disabled
+**/*.DS_Store
 **/target
 **/*.class
+**/*.log
+**/*~
 
-.cache
+# sbt, vscode, metals
+project/metals.sbt
+.metals
+.vscode
+.bloop
 .history
-.lib
+.bsp
+.dotty-ide-disabled
+
+
+# Scala-IDE
+.scala_dependencies
+.cache
+.classpath
+.project
+.settings
+classes/
+
+# idea
+.idea
+.idea_modules
+/.worksheet/
