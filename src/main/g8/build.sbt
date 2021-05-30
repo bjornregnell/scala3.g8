@@ -1,4 +1,4 @@
-scalaVersion := "3.0.0-RC3"
+scalaVersion := "3.0.0"
 
 initialCommands in console := """
   println("Hello Scala 3!")
